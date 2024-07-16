@@ -1,0 +1,12 @@
+
+Some ruby snippets of code I find useful, but aren't big enough to warrant publishing a gem.
+
+- BetterMigrationDefaults — Some better defaults for Rails migrations, particularly when using
+Postgres.
+- Capybara app link — When using the `rel` attribute for clickable objects on a page, use this
+Capybara helper to find them.
+- FakeHTTP — Manually control responses to requests made with the HTTP.rb gem using a Sinatra-like
+interface. 
+- StimulusData — A utility class for creating the myriad of `data-` attributes used by Stimulus
+controllers.
+
